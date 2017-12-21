@@ -1,3 +1,3 @@
-#Demo File.
+# Demo File.
 
-###This is a demo file for git
+### This is a demo file for git
